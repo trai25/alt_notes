@@ -1,4 +1,5 @@
 baseURL = "https://trai25.github.io/altnotes/"
+publishDir = "docs"
 languageCode = "zh-CN"
 title = "alt.Notes"
 theme = "hugo-paper"
