@@ -3,6 +3,7 @@ languageCode = "zh-CN"
 defaultContentLanguage = "cn"
 title = "alt.Notes"
 theme = "hermit"
+publishDir = "docs"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
